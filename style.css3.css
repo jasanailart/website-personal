@@ -1,0 +1,31 @@
+
+
+body{
+    background-color: #ad88c6;
+}
+img{
+    border-radius: 10px;
+    margin : 10px;
+    width: 200px;
+    height: 230px;
+}
+h1{
+    font-size: 60px;
+    font-family: Verdana, Geneva, Tahoma, sans-serif;
+    color:violet;
+    text-align: center;
+}
+h3{
+    font-size: 25px;
+    font-family: 'Courier New', Courier, monospace;
+}
+li a:hover{
+    background: #fafafa;
+    transition: 0.5s;
+    border-radius: 200px;
+    }
+    .navbar ul li a{
+        color: white;
+        font-weight: bolder;
+        padding: 20px;
+    }
